@@ -1,0 +1,16 @@
+总用量 72
+drwxr-xr-x 3 xzy xzy  4096 11月 19 21:41 Calibre 书库
+drwxr-xr-x 2 xzy xzy  4096 11月 18 22:18 dir0
+-rw-r--r-- 1 xzy xzy     0 12月  8 18:26 ls-output.txt
+-rw-r--r-- 1 xzy xzy 20015 12月  6 20:36 ls.txt
+-rw-r--r-- 1 xzy xzy    18 12月  5 11:30 shuai.txt
+drwxr-xr-x 2 xzy xzy  4096 11月 15 22:34 Wallpaper
+drwxr-xr-x 2 xzy xzy  4096 11月 15 22:35 壁纸
+drwxr-xr-x 2 xzy xzy  4096 11月 11 11:05 公共的
+drwxr-xr-x 2 xzy xzy  4096 11月 11 11:05 模板
+drwxr-xr-x 2 xzy xzy  4096 11月 11 11:05 视频
+drwxr-xr-x 2 xzy xzy  4096 11月 28 21:16 图片
+drwxr-xr-x 2 xzy xzy  4096 11月 11 11:05 文档
+drwxr-xr-x 2 xzy xzy  4096 11月 18 14:00 下载
+drwxr-xr-x 3 xzy xzy  4096 11月 11 14:34 音乐
+drwxr-xr-x 2 xzy xzy  4096 11月 26 12:56 桌面
